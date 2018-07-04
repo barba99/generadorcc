@@ -59,7 +59,7 @@ def usage():
     print("\033[1;33m Nickname: barba99\033[0m")
     print("\033[1;33m Youtube: JORGE BARBA\033[0m")
     print("\033[1;33m Telegram:https://t.me/Jorge_barba\033[0m")
-    print("\033[1;33m TELÉFONO: 052+4772856202")
+    print("\033[1;33m TELÉFONO: 052+4772856201")
     print(" \033[1;33m MASTER'S CREW @ALACRAN @HAC @GOKU @MOISES @Jorge_Barba")
     print("")
 
