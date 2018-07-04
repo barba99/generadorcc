@@ -53,13 +53,13 @@ def usage():
     print("")
     print("\033[1;31m")
     print("+---------------+")
-    print("+\033[;32m Editado por RS\033[1;31m +")
+    print("+\033[;32m Editado por @Jorge_Barba\033[1;31m +")
     print("+---------------+\033[0m")
     print("")
-    print("\033[1;33m Nickname: Real Strategy\033[0m")
-    print("\033[1;33m Youtube: Real Hack RWAM\033[0m")
-    print("\033[1;33m Telegram: t.me/RealStrategyRS \033[0m")
-    print("\033[1;33m Facebook: Real Hack RWAM")
+    print("\033[1;33m Nickname: barba99\033[0m")
+    print("\033[1;33m Youtube: JORGE BARBA\033[0m")
+    print("\033[1;33m Telegram:https://t.me/Jorge_barba\033[0m")
+    print("\033[1;33m TELÉFONO: 052+4772856202")
     print("")
 
 #Arg parser
@@ -208,7 +208,7 @@ def main(argv):
         else:
             print("\n Todas las tarjetas fueron validadas(check)")
             print("\n Pueden ser usadas satisfactoriamente")
-
+            print("\n EL CONOCIMIENTO ES LIBRE ")
         if saveopt:
             save(bin_list)
     else:
