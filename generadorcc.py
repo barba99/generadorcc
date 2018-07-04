@@ -12,10 +12,10 @@ version = "1.0.0"
 os.system ("clear")
 real =raw_input("\033[1;33mingresa tu nick de binnero: \033[0m")
 print("")
-print "\033[1;31mHola \033[0m" + real + "\033[1;35m encantado de conocerte :)\033[0m"
+print "\033[1;31mHola Que Tal!! \033[0m" + real + "\033[1;35m encantado de conocerte :)\033[0m"
 time.sleep(3)
 print("")
-print("\033[1;32mACCESS GRANTED!!\033[1;32m")
+print("\033[1;32mGENERADOR FULL!!\033[1;32m")
 time.sleep(2)
 print("")
 #Informacion de ayuda
@@ -60,6 +60,7 @@ def usage():
     print("\033[1;33m Youtube: JORGE BARBA\033[0m")
     print("\033[1;33m Telegram:https://t.me/Jorge_barba\033[0m")
     print("\033[1;33m TELÉFONO: 052+4772856202")
+    print(" \033[1;33m MASTER'S CREW @ALACRAN @HAC @GOKU @MOISES @Jorge_Barba")
     print("")
 
 #Arg parser
